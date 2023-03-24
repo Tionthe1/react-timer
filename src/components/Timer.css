@@ -1,0 +1,6 @@
+.timer-bar {
+  height: 10px;
+  background-color: blue;
+  transition: width 1s linear;
+  margin: 50px auto;
+  }
